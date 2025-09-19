@@ -3,3 +3,4 @@ matplotlib
 folium
 pandas
 chardet
+streamlit
