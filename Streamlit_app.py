@@ -1,4 +1,5 @@
 # streamlit
+pip install streamlit-folium
 
 #Librerias
 
